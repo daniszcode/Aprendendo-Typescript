@@ -1,4 +1,5 @@
 function greet(nome) {
-    return "Ol\u00E1 ".concat(nome);
+  return `Olá ${nome}`;
 }
+
 console.log(greet("aff"));

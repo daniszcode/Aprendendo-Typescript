@@ -1,0 +1,23 @@
+{
+  "name": "aprendendo-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniszcode/Aprendendo-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniszcode/Aprendendo-Typescript/issues"
+  },
+  "homepage": "https://github.com/daniszcode/Aprendendo-Typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
