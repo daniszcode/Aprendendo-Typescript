@@ -3,3 +3,14 @@ function semRetorno(...args: string[]) {
 }
 
 semRetorno('tarara ', 'underere,');
+
+const pessoa = {
+  nome: 'Luiz',
+  sobrenome: 'Otávio',
+
+  exibirNome(): void {
+    console.log(this.nome + ' ' + this.sobrenome);
+  },
+};
+
+pessoa.exibirNome();
