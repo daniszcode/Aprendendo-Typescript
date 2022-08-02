@@ -11,7 +11,7 @@ function exemplos(
   };
 }
 
-function criaErro(): Never {
+function criaErro(): never {
   throw new Error('tipo never comumente é usado para lançamentos de erro');
 }
 
