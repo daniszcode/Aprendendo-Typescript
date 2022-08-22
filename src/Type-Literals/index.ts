@@ -9,3 +9,8 @@ console.log(
   escolheCasa('Corvinal'),
   escolheCasa(''),
 );
+
+const geminialidadesWesley = {
+  gemeoUm: 'Fred' as const,
+  gemeoDois: 'Jorge' as const,
+};
